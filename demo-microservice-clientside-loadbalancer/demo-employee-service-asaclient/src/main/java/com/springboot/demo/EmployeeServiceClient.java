@@ -7,8 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Hello world!
  *
  */
+//@EnableEurekaClient
+
 @SpringBootApplication
-@EnableEurekaClient
 public class EmployeeServiceClient
 {
 

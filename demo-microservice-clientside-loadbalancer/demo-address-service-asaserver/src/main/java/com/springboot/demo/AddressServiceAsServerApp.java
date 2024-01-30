@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-@EnableEurekaClient
 public class AddressServiceAsServerApp
 {
     public static void main( String[] args )
